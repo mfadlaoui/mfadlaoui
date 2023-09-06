@@ -30,6 +30,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <a href="https://github.com/mfadlaoui/">
-<img src="https://github-readme-stats.vercel.app/api?username=mfadlaoui&theme=dark&show_icons=true&hide_border=true&count_private=true" width='450'/>
+<img src="https://github-readme-stats.vercel.app/api?username=mfadlaoui&theme=dark&show_icons=true&hide_border=true&count_private=true" width='400'/>
 <a href="https://github.com/mfadlaoui/">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfadlaoui&theme=dark&hide_border=true" width='450'/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfadlaoui&theme=dark&hide_border=true" width='400'/>
